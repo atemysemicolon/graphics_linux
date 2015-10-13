@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1323286192 source:/home/prassanna/Development/workspace/tetristest/miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1323286192 /home/prassanna/Development/workspace/tetristest/miniwin.h
+	<iostream>
+
+1444225771 source:/home/prassanna/Development/workspace/tetristest/main.cpp
+	<iostream>
+	<X11/Xlib.h>
+	<X11/keysymdef.h>
+	<assert.h>
+	<unistd.h>
+
+1443620460 /home/prassanna/Development/workspace/tetristest/include/linuxwin.h
+	<iostream>
+
+1443620543 source:/home/prassanna/Development/workspace/tetristest/src/linuxwin.cpp
+	"linuxwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+
+1444234341 source:/home/prassanna/Development/workspace/tetristest2/GraphicsCP.cpp
+	"GraphicsCP.h"
+	<iostream>
+	<X11/Xlib.h>
+	<X11/keysymdef.h>
+	<assert.h>
+	<unistd.h>
+
+1444236721 /home/prassanna/Development/workspace/tetristest2/GraphicsCP.h
+	<string>
+	"Graphics_win.h"
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+
+1444226805 /home/prassanna/Development/workspace/tetristest2/Graphics_win.h
+	<windows.h>
+
+1444236725 source:/home/prassanna/Development/workspace/tetristest2/main.cpp
+	<iostream>
+	"GraphicsCP.h"
+	<unistd.h>
+
+1444237851 source:/home/prassanna/Development/workspace/GraphicsLib_linux/GraphicsCP.cpp
+	"GraphicsCP.h"
+	<iostream>
+	<X11/Xlib.h>
+	<X11/keysymdef.h>
+	<assert.h>
+	<unistd.h>
+
+1444237565 /home/prassanna/Development/workspace/GraphicsLib_linux/GraphicsCP.h
+	<string>
+	"Graphics_win.h"
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+	<unistd.h>
+
+1444237109 /home/prassanna/Development/workspace/GraphicsLib_linux/Graphics_win.h
+	<windows.h>
+
+1444237597 source:/home/prassanna/Development/workspace/GraphicsLib_linux/main.cpp
+	<iostream>
+	"GraphicsCP.h"
+
+1444237851 source:/home/prassanna/Dropbox/Fonaments Informatica/Fonamentsinformatica 2015-16/Practiques/GraphicsLib_linux/GraphicsCP.cpp
+	"GraphicsCP.h"
+	<iostream>
+	<X11/Xlib.h>
+	<X11/keysymdef.h>
+	<assert.h>
+	<unistd.h>
+
+1444237565 /home/prassanna/Dropbox/Fonaments Informatica/Fonamentsinformatica 2015-16/Practiques/GraphicsLib_linux/GraphicsCP.h
+	<string>
+	"Graphics_win.h"
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+	<unistd.h>
+
+1444237109 /home/prassanna/Dropbox/Fonaments Informatica/Fonamentsinformatica 2015-16/Practiques/GraphicsLib_linux/Graphics_win.h
+	<windows.h>
+
+1444237597 source:/home/prassanna/Dropbox/Fonaments Informatica/Fonamentsinformatica 2015-16/Practiques/GraphicsLib_linux/main.cpp
+	<iostream>
+	"GraphicsCP.h"
+
